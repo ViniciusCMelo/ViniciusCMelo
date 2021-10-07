@@ -1,7 +1,7 @@
 ### Opa! Sou o Vinícius Melo! 
 
 - 🔭 Estou atualmente trabalhando com Typescript / Node / React / React-Native
-- 📘 Estou estudando Typescript / SOLID
+- 📘 Estou estudando Laravel / Lumen / Typescript / SOLID
 
  <div>
   <a href="https://github.com/ViniciusCMelo">
